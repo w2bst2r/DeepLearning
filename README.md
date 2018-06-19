@@ -21,6 +21,3 @@ You should be fine in running the notebook now.
 
 Best regards!  
 
-Abdullah Akalın  
-Karim El-Guermai  
-Muhammed Emre Emrah  
